@@ -86,7 +86,7 @@ Place the file
 tmdb_5000_movies.csv
 ```
 
-inside the **Data/** folder.
+inside the **data/** folder.
 
 ---
 
@@ -110,7 +110,7 @@ python main.py
 
 ```text
 movie-search-engine/
-├── Data/
+├── data/
 │   └── tmdb_5000_movies.csv
 ├── src/
 │   ├── __init__.py

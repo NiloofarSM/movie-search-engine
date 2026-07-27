@@ -15,7 +15,7 @@ except ImportError:
 
 logger = logging.getLogger(__name__)
 
-DATA_PATH = os.path.join("Data", "tmdb_5000_movies.csv")
+DATA_PATH = os.path.join("data", "tmdb_5000_movies.csv")
 INDEX_PATH = "index"
 
 
