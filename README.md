@@ -29,7 +29,11 @@ An intelligent movie search engine built with **Python** and **Streamlit** that 
 
 ### Search Results
 
-![Search Results](assets/results.png)
+![Search](assets/search.png)
+
+## show all movie in sidebar
+
+![Search Results](assets/show-all-movie.png)
 
 ---
 # Quick Start
