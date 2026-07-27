@@ -35,6 +35,12 @@ An intelligent movie search engine built with **Python** and **Streamlit** that 
 
 ![Search Results](assets/show-all-movie.png)
 
+<p align="center">
+  <img src="assets/home.png" width="31%">
+  <img src="assets/search.png" width="31%">
+  <img src="assets/show-all-movie.png" width="31%">
+</p>
+
 ---
 # Quick Start
 
