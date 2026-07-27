@@ -21,7 +21,17 @@ An intelligent movie search engine built with **Python** and **Streamlit** that 
 -  **Persistent Index** cached for faster startup
 
 ---
+## Screenshots
 
+### Home Page
+
+![Home Page](assets/home.png)
+
+### Search Results
+
+![Search Results](assets/results.png)
+
+---
 # Quick Start
 
 ## Prerequisites
