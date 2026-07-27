@@ -7,6 +7,12 @@ An intelligent movie search engine built with **Python** and **Streamlit** that 
 
 ---
 
+## 🌐 Live Demo
+
+You can try the live application here:  
+👉 [Movie Search Engine on Streamlit](https://movie-searcher-engine.streamlit.app/)
+
+
 # Features
 
 -  **Semantic Search** using TF-IDF vectorization and Cosine Similarity
